@@ -5,22 +5,22 @@ const weatherData = {
         humidity: 60,
         description: "Sunny",
     },
-    "Tirunelveli": {
+    "Tiruchi": {
         temperature: 16,
         humidity: 75,
         description: "Cloudy",
     },
-    "Kadayanallur": {
+    "Thoothukudi": {
         temperature: 18,
         humidity: 80,
         description: "Rainy",
     },
-    "Chennai": {
+    "Coimbatore": {
         temperature: 20,
         humidity: 65,
         description: "Clear",
     },
-    "Madurai": {
+    "Theni": {
         temperature: 25,
         humidity: 50,
         description: "Windy",
